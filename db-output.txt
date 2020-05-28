@@ -1,0 +1,4 @@
+Database output at 2020-05-28 16:25:35.244886
+[('test text 1',), ('test text 1',), ('Test text 2',)]
+Database output at 2020-05-28 16:41:32.578867
+[('test text 1',), ('test text 1',), ('Test text 2',)]
